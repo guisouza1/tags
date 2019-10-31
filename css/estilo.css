@@ -1,3 +1,4 @@
+/*
 header{
     border: 1px solid #ccc;
     background: #f2f2f2;
@@ -27,4 +28,7 @@ aside{
     background: blue;
 }
 
-/*time para poder formatar data hora etc*/
+time para poder formatar data hora etc*/
+form{
+    padding: 10px;
+}
